@@ -1,7 +1,7 @@
 RUN SERVISE
 - REQUIRED
 	- node 10
-	- mongodb local / using default but slowly
+	- mongodb local
 - setting on .env
 - start
 	- npm install
